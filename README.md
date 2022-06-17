@@ -1,5 +1,5 @@
 # BookEncrypter
-This encrypter akes in a book as a .txt file and a message as arguments and uses the book as a cipher to encrypt the message.
+This encrypter takes in a book as a .txt file and a message as arguments and uses the book as a cipher to encrypt the message.
 There are 2 versions: a C version and an assembly (ARM64) version.
 
 Command line arguments:
